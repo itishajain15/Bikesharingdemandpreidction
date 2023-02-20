@@ -1,4 +1,4 @@
-# Bikesharingdemandpreidction
+# Bike sharing demand preidction
 
 Summary
 Rental bike sharing idea is introduced in many cities for mobility comfort. Availability of these rental bikes needs to be taken care of to reduce the waiting time for people and ensuring their comfort. We will be working on predicting the bike count required at each hour for ensuring the supply of the rental bikes as per demand.
